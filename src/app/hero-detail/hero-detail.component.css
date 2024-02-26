@@ -1,0 +1,28 @@
+.hero-detail{
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f4f4f4;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.hero-detail h2{
+    margin-top: 0;
+    color: #333;
+}
+.hero-detail input{
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+.hero-detail button{
+    width: 100%;
+    padding: 5px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+.hero-detail button:hover{
+    background-color: #444;
+}
